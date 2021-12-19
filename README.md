@@ -1,7 +1,7 @@
 # E-commerce Back End 
 
 # Description
-A functional back end for e-commerce website that uses the latest technology. So the said company cand compete with other e-commerce companies.
+A functional back end for e-commerce website that uses the latest technology. So the said company can compete with other e-commerce companies.
 
 # Table of Contents
 
