@@ -51,6 +51,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Documentation
 <img src="JoNoC0/ecommerce/blob/main/images/ecommerce-mod13.gif" alt="Demo of e-commerce backend" title="Demo of back-end" style="max-width: 100">
 
+Video Link: https://watch.screencastify.com/v/OK1a2ym4XAbBdJjO4Unm
 # Contact
 
 John Nguyen
