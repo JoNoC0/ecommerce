@@ -23,7 +23,8 @@ router.get('/', (req, res) => {
 
 router.get('/:id', (req, res) => {
   // find one category by its `id` value
-  Category.findOne({
+  Category.findOne(
+    {
     where: {
       id: req.params.id
     },
@@ -57,16 +58,11 @@ router.post('/', (req, res) => {
 
 router.put('/:id', (req, res) => {
   // update a category by its `id` value
-  Category.update(
-    {
-    category_name: req.body.category_name,
-    },
-    {
+  Category.update(req.body, {
     where: {
-    id: req.params.id,
+      id: req.params.id,
     }
-  }
-)
+  })
   .then(function(data) {
     res.json(data)
   })
